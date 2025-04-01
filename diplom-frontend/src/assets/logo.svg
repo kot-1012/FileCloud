@@ -1,0 +1,19 @@
+<svg width="300" height="115" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+
+ <g>
+  <title>background</title>
+  <rect fill="#fff" id="canvas_background" height="117" width="302" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <text stroke="#000" transform="matrix(18.306476593017578,0,0,1.5784974098205566,-4436.473656262038,8.27224384209012) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_1" y="10.45313" x="243" stroke-width="0" fill="#000000"/>
+  <text stroke="#000" transform="matrix(16.51308613564893,0,0,11.775735320649156,-2333.992333912499,-356.16215763984235) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="2" id="svg_2" y="32.53701" x="141.75777" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000">Хранилка файлов</text>
+  <text stroke="#000" transform="matrix(-379.0974398017097,0,0,55.47566785433446,91458.23069946414,-7133.510161341011) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="2" id="svg_3" y="131.95313" x="239.5" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000"/>
+  <text stroke="#000" transform="matrix(-409.81403645867573,0,0,-60.62308883666992,107193.05947647149,4999.97468226598) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="2" id="svg_4" y="82.95313" x="260.5" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000"/>
+  <text stroke="#000" transform="matrix(292.9095633432007,0,0,33.98544033344251,-39431.19027813942,-2117.144167363062) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="2" id="svg_5" y="64.95313" x="134.5" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000"/>
+  <text stroke="#000" transform="rotate(-0.5567927956581116 -1.943117856979088,-33.60966873168946) matrix(187.99050903320312,0,0,-29.297273199446526,-19375.527359367778,1995.7618811862646) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="2" id="svg_6" y="69.96326" x="102.50004" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000"/>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="2" id="svg_8" y="78.95313" x="259.5" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000"/>
+  <text style="cursor: move;" stroke="#000" transform="matrix(7.872699351564261,0,0,25.297045530873692,-762.7457573291111,-1262.5357834915155) " xml:space="preserve" text-anchor="start" font-family="'League Gothic', sans-serif" font-size="2" id="svg_9" y="53.22455" x="97.5" stroke-width="0" fill="#000000">которую еще доделывать и доделывать</text>
+ </g>
+</svg>
